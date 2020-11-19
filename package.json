@@ -1,0 +1,30 @@
+{
+  "name": "svelte-d3-rollup",
+  "version": "1.0.0",
+  "description": "A basic web app built with svelte, d3, rollup",
+  "scripts": {
+    "dev": "rollup -c -w",
+    "build": "rollup -c",
+    "sirv": "sirv public --dev --host"
+  },
+  "main": "src/main.js",
+  "keywords": [
+    "svelte",
+    "d3",
+    "rollup"
+  ],
+  "author": "Joe Klemke <jklemke@grox.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^16.0.0",
+    "@rollup/plugin-node-resolve": "^10.0.0",
+    "d3": "^6.2.0",
+    "rollup": "^2.33.2",
+    "rollup-plugin-livereload": "^2.0.0",
+    "rollup-plugin-svelte": "^6.1.1",
+    "rollup-plugin-terser": "^7.0.2",
+    "sirv-cli": "^1.0.8",
+    "svelte": "^3.29.7"
+  }
+}
