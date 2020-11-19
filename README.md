@@ -2,9 +2,10 @@
 A basic responsive application built with rollup, implementing two simple d3 components in svelte.
 
 ### published to github pages here
-The index.html just has to include the compiled bundle.js
+    https://jklemke.github.io/svelte-d3-rollup/ 
 
-https://jklemke.github.io/svelte-d3-rollup/ 
+The index.html simply includes the compiled bundle.js.
+
 
 ### npm commands to build and run
 
