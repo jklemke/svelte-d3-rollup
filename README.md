@@ -1,5 +1,5 @@
 # svelte-d3-rollup
-A basic responsive application built with rollup, implementing two simple d3 components in svelte.
+A basic responsive javascript application built with rollup, implementing two simple d3 components in svelte.
 
 ### published to github pages here
 
